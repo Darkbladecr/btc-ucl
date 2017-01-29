@@ -13,7 +13,7 @@
 
 .portfolio-items .col .work-item.style-3 a,
 .portfolio-items .col .work-item.style-3-alt a {
-	background: transparent url('/wp-content/themes/salient/img/transparent.png') repeat 0 0;	
+	background: transparent url('./../img/transparent.png') repeat 0 0;	
 }
 
 .portfolio-items .col .work-item.style-3 h3, .portfolio-items .work-item.style-3 .work-info,
@@ -1604,7 +1604,7 @@ body.cssreflections .portfolio-items .parallaxImg.transition {
 	left: 50%;
 	top: 100px;
 	margin-left: -15px;
-	background-image: url('/wp-content/themes/salient/img/icons/loading-white-bg.gif');
+	background-image: url('./../img/icons/loading-white-bg.gif');
 }
 
 .portfolio-loading.default-loader {

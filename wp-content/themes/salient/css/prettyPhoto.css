@@ -36,7 +36,7 @@ a.pp_arrow_previous,a.pp_arrow_next{display:block;height:55px;margin-top:3px;ove
     opacity: 0!important;
 }
 
-.pp_loaderIcon{background:url(/wp-content/themes/salient/css/img/prettyPhoto/dark_rounded/loader.gif) center center no-repeat; background-color: transparent; display:none;height:100%!important; width:100%!important;left:0;top:0; position:fixed; z-index:98000;}
+.pp_loaderIcon{background:url(./img/prettyPhoto/dark_rounded/loader.gif) center center no-repeat; background-color: transparent; display:none;height:100%!important; width:100%!important;left:0;top:0; position:fixed; z-index:98000;}
 div.dark_rounded {padding-top:17px}
 div.dark_rounded iframe { overflow-y: hidden;}
 div.dark_rounded .pp_details { display: none; }

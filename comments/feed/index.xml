@@ -8,9 +8,9 @@
 <channel>
 	<title>Comments for UCL Be The Change </title>
 	<atom:link href="http://localhost/BeTheChange/comments/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<link>./../../index.html</link>
 	<description></description>
-	<lastBuildDate>Sun, 29 Jan 2017 23:28:52 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 29 Jan 2017 23:44:58 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.7.2</generator>
